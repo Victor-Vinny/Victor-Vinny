@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-animated.svg" width="100%" alt="Victor Vinny Braz — Analista de Dados e BI. Dados que viram decisões." />
+  <img src="assets/banner-animated.svg?v=2" width="100%" alt="Victor Vinny Braz — Analista de Dados e BI. Dados que viram decisões." />
 </p>
 
 <p align="center">
