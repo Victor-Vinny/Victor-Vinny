@@ -16,7 +16,7 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="38%" valign="middle">
 <a href="https://github.com/VictorVInny/credit-risk-machine-learning">
 <img src="https://raw.githubusercontent.com/VictorVInny/credit-risk-machine-learning/main/images/01_inicio.png" width="100%" alt="Interface do Credit Risk Score, aplicação de análise de risco de crédito" />
 </a>
@@ -36,7 +36,7 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="38%" valign="middle">
 <a href="https://github.com/VictorVInny/gupy-remote-job-monitor">
 <img src="https://raw.githubusercontent.com/VictorVInny/gupy-remote-job-monitor/main/images/interface.png" width="100%" alt="Interface desktop do Gupy Remote Job Monitor" />
 </a>
@@ -55,9 +55,9 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="38%" valign="middle">
 <a href="https://github.com/VictorVInny/prevya-showcase">
-<img src="https://raw.githubusercontent.com/VictorVInny/prevya-showcase/main/assets/dashboard-overview.png" width="100%" alt="Dashboard financeiro do Prevya com visão de receitas, despesas e metas" />
+<img src="https://raw.githubusercontent.com/VictorVInny/prevya-showcase/main/assets/prevya-cover.png" width="100%" alt="Prevya — plataforma de organização financeira com interface para compras parceladas" />
 </a>
 </td>
 <td width="62%" valign="top">
