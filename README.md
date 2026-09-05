@@ -17,8 +17,8 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 <table>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/VictorVInny/credit-risk-machine-learning">
-<img src="https://raw.githubusercontent.com/VictorVInny/credit-risk-machine-learning/main/images/01_inicio.png" width="100%" alt="Interface do Credit Risk Score, aplicação de análise de risco de crédito" />
+<a href="https://github.com/Victor-Vinny/credit-risk-machine-learning">
+<img src="https://raw.githubusercontent.com/Victor-Vinny/credit-risk-machine-learning/main/images/01_inicio.png" width="100%" alt="Interface do Credit Risk Score, aplicação de análise de risco de crédito" />
 </a>
 </td>
 <td width="62%" valign="top">
@@ -27,7 +27,7 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 <p>Pipeline de classificação de inadimplência: preparação dos dados, análise exploratória, comparação de três algoritmos e aplicação interativa.</p>
 <p><strong>Competências demonstradas:</strong> seleção de modelos, definição de threshold, avaliação em teste isolado e análise de equidade.</p>
 <p><code>Python</code> <code>Pandas</code> <code>scikit-learn</code> <code>Streamlit</code></p>
-<p><a href="https://github.com/VictorVInny/credit-risk-machine-learning"><strong>Explorar código e metodologia ↗</strong></a><br />
+<p><a href="https://github.com/Victor-Vinny/credit-risk-machine-learning"><strong>Explorar código e metodologia ↗</strong></a><br />
 <a href="https://victorvinny-credit-risk.streamlit.app">Abrir demonstração ↗</a></p>
 <sub>Projeto educacional e de portfólio; não destinado a decisões reais de crédito.</sub>
 </td>
@@ -37,8 +37,8 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 <table>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/VictorVInny/gupy-remote-job-monitor">
-<img src="https://raw.githubusercontent.com/VictorVInny/gupy-remote-job-monitor/main/images/interface.png" width="100%" alt="Interface desktop do Gupy Remote Job Monitor" />
+<a href="https://github.com/Victor-Vinny/gupy-remote-job-monitor">
+<img src="https://raw.githubusercontent.com/Victor-Vinny/gupy-remote-job-monitor/main/images/interface.png" width="100%" alt="Interface desktop do Gupy Remote Job Monitor" />
 </a>
 </td>
 <td width="62%" valign="top">
@@ -47,7 +47,7 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 <p>Aplicação desktop que monitora vagas remotas, analisa descrições, calcula aderência ao perfil e envia novas oportunidades para o Discord.</p>
 <p><strong>Competências demonstradas:</strong> coleta e normalização de dados, regras de classificação, controle de duplicidade e integração de serviços.</p>
 <p><code>Python</code> <code>Playwright</code> <code>Beautiful Soup</code> <code>CustomTkinter</code></p>
-<p><a href="https://github.com/VictorVInny/gupy-remote-job-monitor"><strong>Ver funcionalidades e arquitetura ↗</strong></a></p>
+<p><a href="https://github.com/Victor-Vinny/gupy-remote-job-monitor"><strong>Ver funcionalidades e arquitetura ↗</strong></a></p>
 <sub>Apresentação pública com imagens e decisões técnicas. Implementação completa privada.</sub>
 </td>
 </tr>
@@ -56,8 +56,8 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 <table>
 <tr>
 <td width="38%" valign="middle">
-<a href="https://github.com/VictorVInny/prevya-showcase">
-<img src="https://raw.githubusercontent.com/VictorVInny/prevya-showcase/main/assets/prevya-cover.png" width="100%" alt="Prevya — plataforma de organização financeira com interface para compras parceladas" />
+<a href="https://github.com/Victor-Vinny/prevya-showcase">
+<img src="https://raw.githubusercontent.com/Victor-Vinny/prevya-showcase/main/assets/prevya-cover.png" width="100%" alt="Prevya — plataforma de organização financeira com interface para compras parceladas" />
 </a>
 </td>
 <td width="62%" valign="top">
@@ -66,8 +66,8 @@ Neste portfólio, reúno projetos que conectam **análise de dados, Machine Lear
 <p>Plataforma de organização financeira que reúne receitas, despesas, contas, cartões, parcelas, metas e investimentos em uma visão integrada.</p>
 <p><strong>Competências demonstradas:</strong> construção de indicadores, visualização de dados, modelagem relacional e implementação de regras de negócio.</p>
 <p><code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code></p>
-<p><a href="https://github.com/VictorVInny/prevya-showcase"><strong>Conhecer o produto ↗</strong></a><br />
-<a href="https://github.com/VictorVInny/prevya-showcase/blob/main/docs/Prevya-Portfolio.pdf">Abrir apresentação completa ↗</a></p>
+<p><a href="https://github.com/Victor-Vinny/prevya-showcase"><strong>Conhecer o produto ↗</strong></a><br />
+<a href="https://github.com/Victor-Vinny/prevya-showcase/blob/main/docs/Prevya-Portfolio.pdf">Abrir apresentação completa ↗</a></p>
 <sub>Apresentação pública do produto. Código-fonte e regras comerciais privados.</sub>
 </td>
 </tr>
@@ -93,5 +93,5 @@ Os projetos acima mostram diferentes etapas desse trabalho, incluindo **automaç
 
 <p align="center">
   <strong>Dados · Negócio · Tecnologia</strong><br />
-  <sub>Victor Vinny Braz · <a href="https://github.com/VictorVInny">@VictorVInny</a></sub>
+  <sub>Victor Vinny Braz · <a href="https://github.com/Victor-Vinny">@Victor-Vinny</a></sub>
 </p>
